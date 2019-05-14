@@ -1,0 +1,7 @@
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.csprojAssemblyReference.cache
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.csproj.CoreCompileInputs.cache
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.exe.config
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.exe
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.pdb
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.exe
+C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.pdb
