@@ -18,9 +18,14 @@ namespace CalcoloCodiceFiscale {
              * Output: Italian social security number.
              */
 
-            classes.Person john = new classes.Person("John", "Doe", "M", 1989, 12, 15, "Torino");
+            //classes.Person john = new classes.Person("John", "Doe", "M", 1989, 12, 15, "Torino");
 
             john.ToString();
+
+            Console.WriteLine("Insert name: ");
+
+
+
             Console.Read();
 
 
