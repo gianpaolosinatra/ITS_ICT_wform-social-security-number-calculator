@@ -49,12 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="StaticClasses\CodFis.cs" />
+    <Compile Include="StaticClasses\CalcoloCodFis.cs" />
     <Compile Include="classes\Person.cs" />
     <Compile Include="classes\Program.cs" />
     <Compile Include="Enums\Gender.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StaticClasses\CFCalc.cs" />
     <Compile Include="tests\codiceFiscale.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -5,3 +5,14 @@ C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\bin\De
 C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.pdb
 C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.exe
 C:\Users\g.sinatra\source\repos\CalcoloCodiceFiscale\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.pdb
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.csprojAssemblyReference.cache
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.csproj.CoreCompileInputs.cache
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.exe
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.pdb
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.exe.config
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.exe
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\bin\Debug\CalcoloCodiceFiscale.pdb
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\bin\Debug\nunit.framework.dll
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\bin\Debug\nunit.framework.pdb
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\bin\Debug\nunit.framework.xml
+C:\Users\Gianpaolo Sinatra\source\repos\social-security-number-calculator\CalcoloCodiceFiscale\obj\Debug\CalcoloCodiceFiscale.csproj.CopyComplete
